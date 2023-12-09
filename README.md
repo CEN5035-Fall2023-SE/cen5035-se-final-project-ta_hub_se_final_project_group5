@@ -14,4 +14,4 @@ https://drive.google.com/file/d/1aT05w8aNR7uBiX4uxU3Ssh-7P1zYaSMN/view?usp=shari
 
 Instructions:
 
-ignore the 'client' folder within the 'TA_HUB' folder and rename the 'clientCode' folder to 'client' While run the code
+ignore the 'client' folder within the 'TA_HUB' folder and rename the 'clientCode' folder to 'client' While you run the code
